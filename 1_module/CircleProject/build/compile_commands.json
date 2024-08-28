@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/workspaces/Coding4Everyone/1_module/CircleProject/build",
+  "command": "/usr/bin/cc   -std=gnu11 -o CMakeFiles/circle.dir/circle.c.o -c /workspaces/Coding4Everyone/1_module/CircleProject/circle.c",
+  "file": "/workspaces/Coding4Everyone/1_module/CircleProject/circle.c",
+  "output": "CMakeFiles/circle.dir/circle.c.o"
+}
+]

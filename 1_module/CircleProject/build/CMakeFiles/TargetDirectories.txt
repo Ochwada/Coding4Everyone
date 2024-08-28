@@ -1,0 +1,3 @@
+/workspaces/Coding4Everyone/1_module/CircleProject/build/CMakeFiles/circle.dir
+/workspaces/Coding4Everyone/1_module/CircleProject/build/CMakeFiles/edit_cache.dir
+/workspaces/Coding4Everyone/1_module/CircleProject/build/CMakeFiles/rebuild_cache.dir
