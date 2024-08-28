@@ -1,20 +1,15 @@
 #include <stdio.h>
+#include "add.h"  // Include the header file
 
-int main(void) {
-    float a;
-    float b;
-    float sum;
-    printf("Input two floats: ");
+int main() {
+    printf("Calling add function:\n");
+    add();  // Call the function defined in add.c
 
-    scanf("%f %f", &a, &b);
-    printf("a=%f b=%f\n ", a, b);
-
-    sum = a + b;
-    printf("Sum: %f\n\n", sum);
-
+    circle();  // Call the function defined in circle.c
+    
     return 0;
-
-
 }
+
 // gcc -g circle.c -o circle && ./circle
+//gcc -g circle.c add.c -o circle && ./circle
 
