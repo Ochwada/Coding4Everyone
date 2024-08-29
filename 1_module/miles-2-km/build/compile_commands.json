@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/workspaces/Coding4Everyone/1_module/miles-2-km/build",
+  "command": "/usr/bin/cc   -std=gnu11 -o CMakeFiles/miles2km.dir/miles2km.c.o -c /workspaces/Coding4Everyone/1_module/miles-2-km/miles2km.c",
+  "file": "/workspaces/Coding4Everyone/1_module/miles-2-km/miles2km.c",
+  "output": "CMakeFiles/miles2km.dir/miles2km.c.o"
+}
+]
