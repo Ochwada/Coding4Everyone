@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/workspaces/Coding4Everyone/1_module/DistanceInYards/build",
+  "command": "/usr/bin/cc   -std=gnu11 -o CMakeFiles/main.dir/main.c.o -c /workspaces/Coding4Everyone/1_module/DistanceInYards/main.c",
+  "file": "/workspaces/Coding4Everyone/1_module/DistanceInYards/main.c",
+  "output": "CMakeFiles/main.dir/main.c.o"
+}
+]
