@@ -1,3 +1,4 @@
 {
-    "sonarlint.pathToCompileCommands": "${workspaceFolder}/1_module/CircleProject/build/compile_commands.json"
+    "sonarlint.pathToCompileCommands": "${workspaceFolder}/1_module/CircleProject/build/compile_commands.json",
+    "cmake.sourceDirectory": "/workspaces/Coding4Everyone/1_module/miles-2-km"
 }

@@ -1,0 +1,3 @@
+/workspaces/Coding4Everyone/build/CMakeFiles/rebuild_cache.dir
+/workspaces/Coding4Everyone/build/CMakeFiles/edit_cache.dir
+/workspaces/Coding4Everyone/build/CMakeFiles/miles2km.dir
